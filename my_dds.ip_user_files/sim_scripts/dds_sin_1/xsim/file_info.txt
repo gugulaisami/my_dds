@@ -1,0 +1,2 @@
+dds_sin.vhd,vhdl,xil_defaultlib,../../../../my_dds.srcs/sources_1/ip/dds_sin_1/sim/dds_sin.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

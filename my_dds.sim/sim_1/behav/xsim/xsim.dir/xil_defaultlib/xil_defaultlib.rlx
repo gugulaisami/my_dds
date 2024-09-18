@@ -1,0 +1,19 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/86183/Desktop/my_dds/my_dds.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sim_1/new/DDS_tb.v,1695112613,verilog,,,,DDS_tb,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1694769717,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/ila_0/sim/ila_0.v,,clk_wiz_0,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1694769717,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/dds_sin_1/sim/dds_sin.vhd,1695094129,vhdl,,,,dds_sin,,,,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/ila_0/sim/ila_0.v,1695125434,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/DDS.v,,ila_0,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/rom_sin_2/sim/rom_sin.v,1695088384,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,rom_sin,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/DDS.v,1695291213,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/amplitude_ctrl.v,,DDS,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/amplitude_ctrl.v,1695288953,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/button4x4_drive.v,,amplitude_ctrl,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/button4x4_drive.v,1695266654,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/frequency_ctrl.v,,button4x4_drive,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/frequency_ctrl.v,1695280608,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/phase_ctrl.v,,frequency_ctrl,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/phase_ctrl.v,1695286139,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/sine_wave_drive.v,,phase_ctrl,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/sine_wave_drive.v,1695289384,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/smg_drive.v,,sine_wave_drive,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/smg_drive.v,1694767006,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/wave_ctrl.v,,smg_drive,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/86183/Desktop/my_dds/my_dds.srcs/sources_1/new/wave_ctrl.v,1695291471,verilog,,C:/Users/86183/Desktop/my_dds/my_dds.srcs/sim_1/new/DDS_tb.v,,wave_ctrl,,,../../../../my_dds.srcs/sources_1/ip/clk_wiz_0,,,,,
